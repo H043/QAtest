@@ -1,2 +1,2 @@
-# QAtest
-HW8
+# QA manual
+landing page, HTML only
