@@ -1,0 +1,66 @@
+body {
+	background-image: url('../photo/paw.png');
+	background-size: 80px 65px;
+	background-repeat: no-repeat;
+	background-position: 240px 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #8F6F5D;
+}
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #111;
+}
+.p_main {
+	font-family: serif;
+	text-align: center;
+	font-size: 24px;
+}
+
+.p_second {
+	font-family: serif;
+	text-align: center;
+	font-size: 18px;
+}
+
+.p_third {font-family: serif;
+	text-align: center;
+	font-size: 36px;
+}
+
+.gallery {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-block: 10px;
+	border-radius: 10px;
+}
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#main_pic {
+		display: block;
+		border-radius: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 50px;
+}
